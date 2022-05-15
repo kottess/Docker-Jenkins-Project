@@ -18,7 +18,7 @@ pipeline {
 
       steps {
 
-        git 'https://github.com/kottess/Docker-Jenkins-Demo'
+        git 'https://github.com/kottess/Docker-Jenkins-Project.git'
 
       }
 
