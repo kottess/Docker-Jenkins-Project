@@ -3,7 +3,6 @@ pipeline {
   environment {
 
     registry = "1872333902/dockerproject1"
-"
 
     registryCredential = 'docker-creds'
 
